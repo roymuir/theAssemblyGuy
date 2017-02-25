@@ -11,7 +11,7 @@
 
 				
                 <?php if (_option('footer_widgets',1)== '1'){ ?>
-				<div class="row mb30">
+				<div class="mb30 clearfix">
                      <?php 
 						if ( !dynamic_sidebar ( 'footer_widgets' ) ){
 							thdglkr_emptysidebar('Footer');
