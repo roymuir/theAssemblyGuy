@@ -1,0 +1,36 @@
+/* Custom CSS fo VC */
+
+
+.vc_element-icon.tt-process{background:url(process.png) no-repeat;}
+.vc_element-icon.tt-process_item{background:url(process-item.png) no-repeat;}
+.vc_element-icon.tt-pricingtable{background:url(pricingtable.png) no-repeat;}
+.vc_element-icon.tt-pricingtable_item{background:url(pricingtable-item.png) no-repeat;}
+.vc_element-icon.tt-members{background:url(members.png) no-repeat;}
+.vc_element-icon.tt-members_item{background:url(members-item.png) no-repeat;}
+.vc_element-icon.tt-slider{background:url(slider.png) no-repeat;}
+.vc_element-icon.tt-title{background:url(title.png) no-repeat;}
+.vc_element-icon.tt-divider{background:url(divider.png) no-repeat;}
+.vc_element-icon.tt-button{background:url(button.png) no-repeat;}
+.vc_element-icon.tt-gap{background:url(gap.png) no-repeat;}
+.vc_element-icon.tt-anchor{background:url(anchor.png) no-repeat;}
+.vc_element-icon.tt-message{background:url(message.png) no-repeat;}
+.vc_element-icon.tt-wrap{background:url(wrap.png) no-repeat;}
+.vc_element-icon.tt-actionbox{background:url(actionbox.png) no-repeat;}
+.vc_element-icon.tt-service{background:url(service.png) no-repeat;}
+.vc_element-icon.tt-social{background:url(social.png) no-repeat;}
+.vc_element-icon.tt-gfont{background:url(gfont.png) no-repeat;}
+.vc_element-icon.tt-toggle{background:url(toggle.png) no-repeat;}
+.vc_element-icon.tt-clients{background:url(clients.png) no-repeat;}
+.vc_element-icon.tt-testimonial{background:url(testimonial.png) no-repeat;}
+.vc_element-icon.tt-testimonial_item{background:url(testimonial-item.png) no-repeat;}
+.vc_element-icon.tt-portfolio{background:url(portfolio.png) no-repeat;}
+.vc_element-icon.tt-recentposts{background:url(recentposts.png) no-repeat;}
+.vc_element-icon.tt-newsticker{background:url(newsticker.png) no-repeat;}
+.vc_element-icon.tt-countdown{background:url(countdown.png) no-repeat;}
+.vc_element-icon.tt-gmap{background:url(gmap.png) no-repeat;}
+
+.vc_shortcodes_container > .wpb_element_wrapper > .wpb_element_title .vc_element-icon.tt-wrap,
+.vc_shortcodes_container > .wpb_element_wrapper > .wpb_element_title .vc_element-icon.tt-process,
+.vc_shortcodes_container > .wpb_element_wrapper > .wpb_element_title .vc_element-icon.tt-members,
+.vc_shortcodes_container > .wpb_element_wrapper > .wpb_element_title .vc_element-icon.tt-testimonial,
+.vc_shortcodes_container > .wpb_element_wrapper > .wpb_element_title .vc_element-icon.tt-pricingtable{background-position:0;}	

@@ -1,0 +1,2177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revera v1.0\n"
+"POT-Creation-Date: 2015-02-09 19:44+0330\n"
+"PO-Revision-Date: 2015-02-09 19:44+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog.php:55 search.php:42 single.php:36
+msgid "Not Found"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:57 functions/vc/vc-custom.php:738
+msgid "Name"
+msgstr ""
+
+#: comments.php:62 functions/vc/vc-custom.php:677
+msgid "Email"
+msgstr ""
+
+#: comments.php:67
+msgid "Website"
+msgstr ""
+
+#: comments.php:75
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:77
+msgid "Your comment here..."
+msgstr ""
+
+#: comments.php:79
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:90 functions/plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:91 functions/plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:92 functions/plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:93
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:104 functions/plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:105 functions/plugin-activation.php:212
+#: functions/plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:106
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:206
+msgid "Widgets for the Blog sidebar."
+msgstr ""
+
+#: functions.php:238
+msgid "Widgets for the Search Page sidebar."
+msgstr ""
+
+#: functions.php:272
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: functions.php:275 functions.php:293
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:361
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#: options.php:62
+msgid "Layout"
+msgstr ""
+
+#: options.php:67
+msgid "Responsive?"
+msgstr ""
+
+#: options.php:68
+msgid "Turn On/Off the Responsive"
+msgstr ""
+
+#: options.php:73
+msgid "Zoom on Small Devices?"
+msgstr ""
+
+#: options.php:74
+msgid "Turn On/Off the Zoom ability on small devices"
+msgstr ""
+
+#: options.php:83
+msgid "SEO Settings"
+msgstr ""
+
+#: options.php:89
+msgid "Meta Description"
+msgstr ""
+
+#: options.php:90
+msgid "Description about your website (Good for SEO)"
+msgstr ""
+
+#: options.php:95
+msgid "Meta Keywords"
+msgstr ""
+
+#: options.php:96
+msgid "Keywords about your website, Separate them with comma ( , )"
+msgstr ""
+
+#: options.php:105
+msgid "Meta Robots"
+msgstr ""
+
+#: options.php:106
+msgid ""
+"Should the robots index your site or not? Maybe you don`t want to let robots "
+"follow all your pages/folders?"
+msgstr ""
+
+#: options.php:113
+msgid "Apple Devices Icons"
+msgstr ""
+
+#: options.php:117
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: options.php:118
+msgid ""
+"This is a hidden image that Apple iPhone use this icon as a shortcut icon. "
+"(57x57 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:123
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: options.php:124
+msgid ""
+"This is a hidden image that Retina Apple iPhone use this icon as a shortcut "
+"icon. (114x114 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:129
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: options.php:130
+msgid ""
+"This is a hidden image that Apple iPad use this icon as a shortcut icon. "
+"(72x72 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:136
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: options.php:137
+msgid ""
+"This is a hidden image that Retina Apple iPad use this icon as a shortcut "
+"icon. (144x144 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:146 functions/custom-posttype.php:139
+msgid "Header"
+msgstr ""
+
+#: options.php:152
+msgid "Logo Text"
+msgstr ""
+
+#: options.php:153
+msgid "Enter your logo text"
+msgstr ""
+
+#: options.php:159
+msgid "Logo"
+msgstr ""
+
+#: options.php:160
+msgid ""
+"Use the upload button to upload your site's logo and then click '<strong>Use "
+"this image</strong>. (If you leave it blank Logo Text will show.)"
+msgstr ""
+
+#: options.php:166
+msgid "Custom Favicon"
+msgstr ""
+
+#: options.php:167
+msgid "Site favicon. (32x32 pixel or 16x16 pixel .PNG or .ICO file)"
+msgstr ""
+
+#: options.php:173
+msgid "Navigation Menu"
+msgstr ""
+
+#: options.php:177
+msgid "Show Search?"
+msgstr ""
+
+#: options.php:178
+msgid "Turn On/Off the Search bar on menu"
+msgstr ""
+
+#: options.php:183
+msgid "Pages Title"
+msgstr ""
+
+#: options.php:186
+msgid "Pages Title Type"
+msgstr ""
+
+#: options.php:187
+msgid ""
+"Please select page template title type such as Portfolio, About, "
+"Contact, ... "
+msgstr ""
+
+#: options.php:200 options.php:238
+msgid "Show Arrow Down Icon?"
+msgstr ""
+
+#: options.php:201 options.php:239
+msgid "Turn On/Off the Title Arrow Down Icon"
+msgstr ""
+
+#: options.php:207
+msgid "Search Pages Title"
+msgstr ""
+
+#: options.php:210
+msgid "Search Page Title Type"
+msgstr ""
+
+#: options.php:211
+msgid ""
+"Please select search page title type such as Pages: Search, Category, Tag, "
+"Date and ..."
+msgstr ""
+
+#: options.php:224
+msgid "Custom Search Title Image"
+msgstr ""
+
+#: options.php:225
+msgid "If you select Image as a title, you should add your image here."
+msgstr ""
+
+#: options.php:230
+msgid "Image Repeat"
+msgstr ""
+
+#: options.php:231
+msgid "Select Background Repeat for image above"
+msgstr ""
+
+#: options.php:236
+msgid "Stretch Image"
+msgstr ""
+
+#: options.php:236
+msgid "Repeat"
+msgstr ""
+
+#: options.php:236 admin/options-sanitize.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: options.php:236
+msgid "Repeat Horizontal (X)"
+msgstr ""
+
+#: options.php:236
+msgid "Repeat Vertical (Y)"
+msgstr ""
+
+#: options.php:248
+msgid "Colors"
+msgstr ""
+
+#: options.php:253 options.php:323 options.php:439 options.php:575
+msgid "Note"
+msgstr ""
+
+#: options.php:256
+msgid ""
+"For Live Colors settings please go to <a href=\"customize.php\">Theme "
+"Customize</a> &gt; <strong>Colors</strong> "
+msgstr ""
+
+#: options.php:262
+msgid "Typography"
+msgstr ""
+
+#: options.php:266
+msgid "Body font"
+msgstr ""
+
+#: options.php:267
+msgid "Text font:"
+msgstr ""
+
+#: options.php:273
+msgid "Menu font:"
+msgstr ""
+
+#: options.php:281
+msgid "Heading"
+msgstr ""
+
+#: options.php:285
+msgid "H1 font:"
+msgstr ""
+
+#: options.php:291
+msgid "H2 font:"
+msgstr ""
+
+#: options.php:297
+msgid "H3 font:"
+msgstr ""
+
+#: options.php:303
+msgid "H4 font:"
+msgstr ""
+
+#: options.php:309
+msgid "H5 font:"
+msgstr ""
+
+#: options.php:315
+msgid "H6 font:"
+msgstr ""
+
+#: options.php:326
+msgid ""
+"For Other Colors settings please <a href=\"customize.php\" >Click Here</a>  "
+msgstr ""
+
+#: options.php:333
+msgid "Blog Settings"
+msgstr ""
+
+#: options.php:338
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: options.php:339
+msgid "Choose which side you would like the sidebar to appear on the Blog."
+msgstr ""
+
+#: options.php:345
+msgid "Number of Blog items?"
+msgstr ""
+
+#: options.php:346
+msgid "Number of blog items per page in blog pages for pagination."
+msgstr ""
+
+#: options.php:354
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: options.php:355
+msgid ""
+"Default is 30 words. Used for blog page, archives, Tags, Category Search "
+"and ... "
+msgstr ""
+
+#: options.php:362
+msgid "Show Read More button?"
+msgstr ""
+
+#: options.php:363
+msgid "This will display the Read More button in the blogs page."
+msgstr ""
+
+#: options.php:368
+msgid "Read More Button Text"
+msgstr ""
+
+#: options.php:369
+msgid ""
+"This is the text that will appear on the Blog \"More button\".  Default text "
+"is <strong>Continue Reading</strong>"
+msgstr ""
+
+#: options.php:371
+msgid "Continue Reading"
+msgstr ""
+
+#: options.php:375
+msgid "Show Tags in Posts page?"
+msgstr ""
+
+#: options.php:376
+msgid "This will display the Tags in the bolg posts."
+msgstr ""
+
+#: options.php:381
+msgid "Show meta data in Blog page?"
+msgstr ""
+
+#: options.php:382
+msgid ""
+"This will display the the meta data such as date and category in blog posts"
+msgstr ""
+
+#: options.php:388
+msgid "Blog Details"
+msgstr ""
+
+#: options.php:391
+msgid "Show meta data in Blog details?"
+msgstr ""
+
+#: options.php:392
+msgid ""
+"This will display the the meta data such as date and category in blog "
+"details page"
+msgstr ""
+
+#: options.php:397
+msgid "Show Author Info on Blog Details?"
+msgstr ""
+
+#: options.php:398
+msgid ""
+"This will display the Author Name &amp; Biography in the Blog Posts. You can "
+"edit the Author Biography under Users > Profiles."
+msgstr ""
+
+#: options.php:404 options.php:496
+msgid "Show Next and Previous buttons?"
+msgstr ""
+
+#: options.php:405
+msgid ""
+"This will display the next and previous Post links on blog details page."
+msgstr ""
+
+#: options.php:411 options.php:525
+msgid "Enable Comments?"
+msgstr ""
+
+#: options.php:412
+msgid "This will display the Comments in the Blog Posts."
+msgstr ""
+
+#: options.php:419
+msgid "Portfolio Settings"
+msgstr ""
+
+#: options.php:425
+msgid "Portfolio slug"
+msgstr ""
+
+#: options.php:426
+msgid ""
+"Portfolio slug is URL friendly string that will shows in your portfolio "
+"details link."
+msgstr ""
+
+#: options.php:432
+msgid "Portfolio Page Name"
+msgstr ""
+
+#: options.php:433
+msgid "Portfolio Page Name."
+msgstr ""
+
+#: options.php:442
+msgid ""
+"After Changing the <strong>Portfolio Slug</strong> you should go to "
+"<strong>Settings</strong> > <strong>Permalinks</strong> and click on "
+"<strong>Save Changes</strong> to set the new slug."
+msgstr ""
+
+#: options.php:446
+msgid "Portfolio Filtering?"
+msgstr ""
+
+#: options.php:447
+msgid "Turn On/Off the Filtering Portfolio by Categories."
+msgstr ""
+
+#: options.php:452
+msgid "Portfolio Order by:"
+msgstr ""
+
+#: options.php:453
+msgid "Choose Date or Menu Order for Portfolio carousel sort order."
+msgstr ""
+
+#: options.php:458 functions/vc/vc-custom.php:379
+msgid "Date"
+msgstr ""
+
+#: options.php:458
+msgid "Menu Order"
+msgstr ""
+
+#: options.php:458 functions/vc/vc-custom.php:384
+msgid "Random"
+msgstr ""
+
+#: options.php:461
+msgid "Portfolio Order"
+msgstr ""
+
+#: options.php:462
+msgid ""
+"Choose ASC (Ascending) or DESC (Descending) for Portfolio order in carousel ."
+msgstr ""
+
+#: options.php:467
+msgid "ASC"
+msgstr ""
+
+#: options.php:467
+msgid "DESC"
+msgstr ""
+
+#: options.php:469
+msgid "Number of Portfolio items?"
+msgstr ""
+
+#: options.php:470
+msgid "Number of portfolio items per page in portfolio pages for pagination."
+msgstr ""
+
+#: options.php:476
+msgid "Portfolio Excerpt Length"
+msgstr ""
+
+#: options.php:477
+msgid "Default is 30 words. Used for Portfolio pages."
+msgstr ""
+
+#: options.php:484
+msgid "Portfolio Details"
+msgstr ""
+
+#: options.php:488
+msgid "Portfolio Details Page Sidebar Position"
+msgstr ""
+
+#: options.php:489
+msgid ""
+"Choose which side you would like the sidebar to appear on the Portfolio "
+"Details page."
+msgstr ""
+
+#: options.php:497
+msgid ""
+"This will display the next and previous Project links on project Details "
+"page."
+msgstr ""
+
+#: options.php:502
+msgid "Show Author Info on Project Details?"
+msgstr ""
+
+#: options.php:503
+msgid ""
+"This will display the Author Name & Biography in the Project Details page. "
+"You can edit the Author Biography under Users > Profiles."
+msgstr ""
+
+#: options.php:510
+msgid "Show Related Projects on Portfolio Detail?"
+msgstr ""
+
+#: options.php:511
+msgid "Related projects show in the bottom of project details page."
+msgstr ""
+
+#: options.php:516
+msgid "Related Projects Title"
+msgstr ""
+
+#: options.php:517
+msgid ""
+"The Title of Related Projects, Default is <strong>Related Projects</strong>"
+msgstr ""
+
+#: options.php:519
+msgid "Related Projects"
+msgstr ""
+
+#: options.php:526
+msgid "This will display the Comments in the Portfolio details page."
+msgstr ""
+
+#: options.php:533
+msgid "Footer Settings"
+msgstr ""
+
+#: options.php:537
+msgid "Show Footer Widgets?"
+msgstr ""
+
+#: options.php:538
+msgid "Turn On/Off the footer widgets"
+msgstr ""
+
+#: options.php:545
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: options.php:546
+msgid "Select how many columns you want to display in the footer."
+msgstr ""
+
+#: options.php:553
+msgid "Footer Above Widgets Text"
+msgstr ""
+
+#: options.php:554
+msgid "Add your content that shows on top of Footer Widgets"
+msgstr ""
+
+#: options.php:560
+msgid "Footer Bottom Text"
+msgstr ""
+
+#: options.php:561
+msgid "Add your copyright phrase or any text to be displayed below the footer."
+msgstr ""
+
+#: options.php:567
+msgid "Show Go To Top button?"
+msgstr ""
+
+#: options.php:568
+msgid "Turn On/Off the <strong>Got To Top</strong> button"
+msgstr ""
+
+#: options.php:578
+msgid ""
+"For Footer Social Icons, you can go to <strong>Social &amp; Shares</strong> "
+"section"
+msgstr ""
+
+#: options.php:583
+msgid "Contact Form"
+msgstr ""
+
+#: options.php:587
+msgid "Enable Contact Form Popup?"
+msgstr ""
+
+#: options.php:588
+msgid "Turn On/Off the <strong>Popup Contact  Fomr</strong>"
+msgstr ""
+
+#: options.php:593
+msgid "Contact Form Popup ID"
+msgstr ""
+
+#: options.php:594
+msgid ""
+"Please enter popup ID, you should use this ID for linking the popup href by "
+"#ID<br/>(e.g. &lt;a class=\"popup-form\" href=\"#ID\"&gt;Send a message&lt;/"
+"a&gt;)"
+msgstr ""
+
+#: options.php:600 functions/custom-posttype.php:68
+#: functions/vc/vc-custom.php:114 functions/vc/vc-custom.php:166
+#: functions/vc/vc-custom.php:286 functions/vc/vc-custom.php:382
+#: functions/vc/vc-custom.php:783
+msgid "Title"
+msgstr ""
+
+#: options.php:605 functions/vc/vc-custom.php:172
+msgid "Sub Title"
+msgstr ""
+
+#: options.php:610
+msgid "Contact Form Popup"
+msgstr ""
+
+#: options.php:611
+msgid ""
+"Please enter the popup contact form content form shortcode. (Contact Form 7 "
+"Shortcode)"
+msgstr ""
+
+#: options.php:619
+msgid "Social &amp; Shares"
+msgstr ""
+
+#: options.php:623
+msgid "Show Social Icons in Header?"
+msgstr ""
+
+#: options.php:624
+msgid ""
+"Turn On/Off the Social icons in the Header.  Note: They will only appear if "
+"you have set a link below."
+msgstr ""
+
+#: options.php:629
+msgid "Show Social Icons in Footer?"
+msgstr ""
+
+#: options.php:630
+msgid ""
+"Turn On/Off the Social icons in the Footer.  Note: They will only appear if "
+"you have set a link below."
+msgstr ""
+
+#: options.php:636
+msgid "Open links in new window?"
+msgstr ""
+
+#: options.php:637
+msgid ""
+"Turn On/Off the links target (Open links in new window or in current window)"
+msgstr ""
+
+#: options.php:644
+msgid "Twitter Link"
+msgstr ""
+
+#: options.php:645
+msgid ""
+"Enter the Twitter Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:650
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:651
+msgid ""
+"Enter the Facebook Link that you would like to use for the social-networking "
+"icons. Note: Use http://"
+msgstr ""
+
+#: options.php:657
+msgid "Pinterest Link"
+msgstr ""
+
+#: options.php:658
+msgid ""
+"Enter the Pinterest Link that you would like to use for the social-"
+"networking icons. Use http://"
+msgstr ""
+
+#: options.php:663
+msgid "GitHub Link"
+msgstr ""
+
+#: options.php:664
+msgid ""
+"Enter the GitHub Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:671
+msgid "Flickr Link"
+msgstr ""
+
+#: options.php:672
+msgid ""
+"Enter the Flickr Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:677
+msgid "Google Plus Link"
+msgstr ""
+
+#: options.php:678
+msgid ""
+"Enter the Google Plus Link that you would like to use for the social-"
+"networking icons. Use http://"
+msgstr ""
+
+#: options.php:683
+msgid "YouTube Link"
+msgstr ""
+
+#: options.php:684
+msgid ""
+"Enter the YouTube Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:689
+msgid "Dribbble Link"
+msgstr ""
+
+#: options.php:690
+msgid ""
+"Enter the Dribbble Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:695
+msgid "Instagram Link"
+msgstr ""
+
+#: options.php:696
+msgid ""
+"Enter the Instagram Link that you would like to use for the social-"
+"networking icons. Use http://"
+msgstr ""
+
+#: options.php:701
+msgid "LinkedIn Link"
+msgstr ""
+
+#: options.php:702
+msgid ""
+"Enter the LinkedIn Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:708
+msgid "Skype Link"
+msgstr ""
+
+#: options.php:709
+msgid ""
+"Enter the Skype Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:715
+msgid "Tumblr Link"
+msgstr ""
+
+#: options.php:716
+msgid ""
+"Enter the Tumblr Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:722
+msgid "RSS Feed"
+msgstr ""
+
+#: options.php:723
+msgid ""
+"Enter the RSS Feed that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:729
+msgid "Email Address"
+msgstr ""
+
+#: options.php:730
+msgid ""
+"Enter the email address that you would like to use for the social-networking "
+"icons."
+msgstr ""
+
+#: options.php:736
+msgid "Sitemap"
+msgstr ""
+
+#: options.php:737
+msgid ""
+"Enter the Sitemap link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:745
+msgid "Tools"
+msgstr ""
+
+#: options.php:749
+msgid "Date and Time Format"
+msgstr ""
+
+#: options.php:750
+msgid ""
+"Date and Time format, <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\" >Documentation on date and time "
+"formatting</a>"
+msgstr ""
+
+#: options.php:757
+msgid "Error 404"
+msgstr ""
+
+#: options.php:761
+msgid "404 Error Title"
+msgstr ""
+
+#: options.php:762
+msgid "Enter your custom 404 error title."
+msgstr ""
+
+#: options.php:764
+msgid "404"
+msgstr ""
+
+#: options.php:767
+msgid "404 Error Message Text"
+msgstr ""
+
+#: options.php:768
+msgid "Enter your custom 404 error message."
+msgstr ""
+
+#: options.php:770
+msgid "Page Not Found"
+msgstr ""
+
+#: options.php:774
+msgid "Custom Background Image"
+msgstr ""
+
+#: options.php:775
+msgid "Upload Background Image or paste Image URL"
+msgstr ""
+
+#: options.php:784
+msgid "Custom Codes"
+msgstr ""
+
+#: options.php:789
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:790
+msgid ""
+"Paste your custom css here... <br /><strong>NOTE:</strong> You don't need to "
+"add &lt;style&gt; tags"
+msgstr ""
+
+#: options.php:795
+msgid "Custom Javascript"
+msgstr ""
+
+#: options.php:796
+msgid ""
+"Paste your custom JavaScript code here... <br /><strong>NOTE:</strong> You "
+"don't need to add &lt;script&gt; tags<br/><br/>This will add to Footer of "
+"page."
+msgstr ""
+
+#: options.php:802
+msgid "Track Code"
+msgstr ""
+
+#: options.php:803
+msgid ""
+"Paste your Track Code here (for example: Google Analytics) <br /"
+"><strong>NOTE:</strong> You don't need to add &lt;script&gt; tags<br/><br/"
+">This will add to Footer of page."
+msgstr ""
+
+#: options.php:811
+msgid "Maintenance"
+msgstr ""
+
+#: options.php:817
+msgid "Maintenance Mode"
+msgstr ""
+
+#: options.php:818
+msgid "Turn On/Off Maintenace mode."
+msgstr ""
+
+#: options.php:824
+msgid "Maintenance Page"
+msgstr ""
+
+#: options.php:825
+msgid "Please select maintenace mode page"
+msgstr ""
+
+#: options.php:833
+msgid "Default Maintenance Page Text"
+msgstr ""
+
+#: options.php:834
+msgid "Please set your own text for Default Maintenance Page"
+msgstr ""
+
+#: options.php:840
+msgid "Import Demo"
+msgstr ""
+
+#: options.php:847
+msgid "One Click Demo Intaller"
+msgstr ""
+
+#: options.php:848
+msgid ""
+"Please select your sample demo and click on <strong>Import Demo</strong> "
+"button.<br/><br/><strong>NOTE:</strong> It will take some minutes, please "
+"wait for finishing the import process."
+msgstr ""
+
+#: options.php:855 options.php:860
+msgid "Backup"
+msgstr ""
+
+#: options.php:861
+msgid ""
+"Backup and restore your theme options<br /><strong>NOTE:</strong>For WPML "
+"Users: You should get backup for each language."
+msgstr ""
+
+#: page.php:11 single.php:42
+msgid "Pages: "
+msgstr ""
+
+#: searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: admin/options-framework.php:190 admin/options-framework.php:606
+msgid "Revera Options"
+msgstr ""
+
+#: admin/options-framework.php:291
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:323
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:366
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:27
+msgid "Theme Options Media"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:130
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:153
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:294
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:294
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/options-sanitize.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-sanitize.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-sanitize.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-sanitize.php:257
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-sanitize.php:258
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-sanitize.php:259
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-sanitize.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-sanitize.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-sanitize.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-sanitize.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-sanitize.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-sanitize.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-sanitize.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-sanitize.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-sanitize.php:1000
+msgid "Normal"
+msgstr ""
+
+#: admin/options-sanitize.php:1001
+msgid "Italic"
+msgstr ""
+
+#: admin/options-sanitize.php:1002
+msgid "Bold"
+msgstr ""
+
+#: admin/options-sanitize.php:1003
+msgid "Bold Italic"
+msgstr ""
+
+#: functions/custom-posttype.php:18 functions/vc/vc-custom.php:347
+msgid "Portfolio"
+msgstr ""
+
+#: functions/custom-posttype.php:19
+msgid "Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:20 functions/custom-posttype.php:140
+#: functions/custom-posttype.php:369
+msgid "Add New"
+msgstr ""
+
+#: functions/custom-posttype.php:21
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:22
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:23
+msgid "New Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:24
+msgid "View Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:25
+msgid "Search Portfolio items"
+msgstr ""
+
+#: functions/custom-posttype.php:26
+msgid "No portfolio items found"
+msgstr ""
+
+#: functions/custom-posttype.php:27
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:52
+msgid "Portfolio categories"
+msgstr ""
+
+#: functions/custom-posttype.php:53
+msgid "Portfolio category"
+msgstr ""
+
+#: functions/custom-posttype.php:69 functions/custom-posttype.php:185
+#: functions/custom-posttype.php:430
+msgid "Thumbnail"
+msgstr ""
+
+#: functions/custom-posttype.php:70
+msgid "Categories"
+msgstr ""
+
+#: functions/custom-posttype.php:71
+msgid "Comments"
+msgstr ""
+
+#: functions/custom-posttype.php:72 functions/custom-posttype.php:188
+#: functions/custom-posttype.php:433
+msgid "Order"
+msgstr ""
+
+#: functions/custom-posttype.php:138
+msgid "Headers"
+msgstr ""
+
+#: functions/custom-posttype.php:141
+msgid "Add New Header"
+msgstr ""
+
+#: functions/custom-posttype.php:142
+msgid "Edit Header"
+msgstr ""
+
+#: functions/custom-posttype.php:143
+msgid "New Header"
+msgstr ""
+
+#: functions/custom-posttype.php:144
+msgid "View Header"
+msgstr ""
+
+#: functions/custom-posttype.php:145
+msgid "Search Headers"
+msgstr ""
+
+#: functions/custom-posttype.php:146
+msgid "No header found"
+msgstr ""
+
+#: functions/custom-posttype.php:147
+msgid "No header found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:168
+msgid "Header Categories"
+msgstr ""
+
+#: functions/custom-posttype.php:169
+msgid "Header Category"
+msgstr ""
+
+#: functions/custom-posttype.php:187 functions/custom-posttype.php:432
+#: functions/vc/vc-custom.php:365
+msgid "Category"
+msgstr ""
+
+#: functions/custom-posttype.php:367
+msgid "Testimonials"
+msgstr ""
+
+#: functions/custom-posttype.php:368 functions/vc/vc-custom.php:702
+msgid "Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:370
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:371
+msgid "Edit Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:372
+msgid "New Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:373
+msgid "View Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:374
+msgid "Search Testimonials"
+msgstr ""
+
+#: functions/custom-posttype.php:375
+msgid "No Testimonial found"
+msgstr ""
+
+#: functions/custom-posttype.php:376
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:397
+msgid "Testimonial types"
+msgstr ""
+
+#: functions/custom-posttype.php:398
+msgid "Testimonial type"
+msgstr ""
+
+#: functions/customize.php:16
+msgid "Theme Color"
+msgstr ""
+
+#: functions/customize.php:17
+msgid "Links Color"
+msgstr ""
+
+#: functions/customize.php:18
+msgid "Links Hover Color"
+msgstr ""
+
+#: functions/customize.php:19
+msgid "Icons Color"
+msgstr ""
+
+#: functions/customize.php:23
+msgid "Main Colors"
+msgstr ""
+
+#: functions/customize.php:24
+msgid "Select the colors of each part of page that you want."
+msgstr ""
+
+#: functions/customize.php:55
+msgid "Menu Background Color"
+msgstr ""
+
+#: functions/customize.php:56
+msgid "Menu Border Color"
+msgstr ""
+
+#: functions/customize.php:57
+msgid "Menu Text Color"
+msgstr ""
+
+#: functions/customize.php:58
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: functions/customize.php:59
+msgid "Menu Inside Icons Color"
+msgstr ""
+
+#: functions/customize.php:60
+msgid "Menu Indicator Icons Color (Light)"
+msgstr ""
+
+#: functions/customize.php:61
+msgid "Menu Indicator Icons Color (Dark)"
+msgstr ""
+
+#: functions/customize.php:66
+msgid "Menu Colors"
+msgstr ""
+
+#: functions/customize.php:67
+msgid "Select the colors of Menu"
+msgstr ""
+
+#: functions/customize.php:97
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/customize.php:98
+msgid "Footer Title Color"
+msgstr ""
+
+#: functions/customize.php:99
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions/customize.php:100
+msgid "Footer Links Color"
+msgstr ""
+
+#: functions/customize.php:101
+msgid "Footer Links Hover Color"
+msgstr ""
+
+#: functions/customize.php:102
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: functions/customize.php:103
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: functions/customize.php:104
+msgid "Footer Bottom Top Border Color"
+msgstr ""
+
+#: functions/customize.php:105
+msgid "Footer Icons Color"
+msgstr ""
+
+#: functions/customize.php:109
+msgid "Footer Colors"
+msgstr ""
+
+#: functions/customize.php:110
+msgid "Select the colors of each part of Footer you want."
+msgstr ""
+
+#: functions/header.php:7
+msgid "Tag search for: "
+msgstr ""
+
+#: functions/header.php:12
+msgid "Search for: "
+msgstr ""
+
+#: functions/header.php:17
+msgid "Category: "
+msgstr ""
+
+#: functions/header.php:22 functions/header.php:27 functions/header.php:32
+msgid "Archive for: "
+msgstr ""
+
+#: functions/header.php:39
+msgid "Articles posted by: "
+msgstr ""
+
+#: functions/plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:213 functions/plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions/plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/plugin-activation.php:544 functions/plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: functions/plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: functions/plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: functions/plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/plugin-activation.php:1290 functions/plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: functions/plugin-activation.php:1312 functions/plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: functions/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: functions/plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: functions/plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: functions/plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: functions/plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: functions/plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: functions/plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/portfolio-filtering.php:10
+msgid "Show All"
+msgstr ""
+
+#: functions/shortcodes.php:483
+msgid "Twitter"
+msgstr ""
+
+#: functions/shortcodes.php:487
+msgid "Facebook"
+msgstr ""
+
+#: functions/shortcodes.php:491
+msgid "LinkedIn"
+msgstr ""
+
+#: functions/shortcodes.php:495 functions/vc/vc-custom.php:640
+msgid "Google+"
+msgstr ""
+
+#: functions/shortcodes.php:499 functions/vc/vc-custom.php:658
+msgid "Dribbble"
+msgstr ""
+
+#: functions/shortcodes.php:503 functions/vc/vc-custom.php:652
+msgid "Skype"
+msgstr ""
+
+#: functions/shortcodes.php:507 functions/vc/vc-custom.php:664
+msgid "Flickr"
+msgstr ""
+
+#: functions/shortcodes.php:511 functions/vc/vc-custom.php:670
+msgid "Instagram"
+msgstr ""
+
+#: functions/metabox/inc/common.php:53
+msgid "Documentation"
+msgstr ""
+
+#: functions/metabox/inc/common.php:54
+msgid "Extensions"
+msgstr ""
+
+#: functions/metabox/inc/field.php:225
+msgid "+"
+msgstr ""
+
+#: functions/metabox/inc/field.php:235
+msgid "&#8211;"
+msgstr ""
+
+#: functions/metabox/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: functions/metabox/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: functions/metabox/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: functions/metabox/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: functions/metabox/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: functions/metabox/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: functions/metabox/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: functions/metabox/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: functions/metabox/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: functions/metabox/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: functions/metabox/inc/fields/post.php:66
+#: functions/metabox/inc/fields/taxonomy.php:40
+#: functions/metabox/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: functions/metabox/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: functions/post-format/content-meta.php:6
+msgid "By"
+msgstr ""
+
+#: functions/post-format/content-meta.php:7
+msgid "on"
+msgstr ""
+
+#: functions/post-format/content-meta.php:8
+msgid "in"
+msgstr ""
+
+#: functions/post-format/content-meta.php:10
+msgid "in Pages"
+msgstr ""
+
+#: functions/post-format/content-meta.php:12
+msgid "in Portfolio"
+msgstr ""
+
+#: functions/post-format/single-meta.php:13
+msgid "No Comment"
+msgstr ""
+
+#: functions/post-format/single-meta.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: functions/post-format/single-meta.php:13
+msgid "% Comments"
+msgstr ""
+
+#: functions/vc/vc-custom.php:45
+msgid "Section (Parallax)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:52 functions/vc/vc-custom.php:117
+#: functions/vc/vc-custom.php:162 functions/vc/vc-custom.php:252
+#: functions/vc/vc-custom.php:277 functions/vc/vc-custom.php:326
+#: functions/vc/vc-custom.php:350 functions/vc/vc-custom.php:414
+#: functions/vc/vc-custom.php:511 functions/vc/vc-custom.php:587
+#: functions/vc/vc-custom.php:606 functions/vc/vc-custom.php:709
+#: functions/vc/vc-custom.php:734 functions/vc/vc-custom.php:778
+msgid "Revera Custom Shortcodes"
+msgstr ""
+
+#: functions/vc/vc-custom.php:57 functions/vc/vc-custom.php:257
+#: functions/vc/vc-custom.php:380 functions/vc/vc-custom.php:714
+msgid "ID"
+msgstr ""
+
+#: functions/vc/vc-custom.php:59 functions/vc/vc-custom.php:259
+msgid "Please set anchor ID and then set link to it by # tag"
+msgstr ""
+
+#: functions/vc/vc-custom.php:64
+msgid "Background color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:67
+msgid "Choose Background color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:71
+msgid "Border color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:74
+msgid "Choose border color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:77
+msgid "Background Image"
+msgstr ""
+
+#: functions/vc/vc-custom.php:80
+msgid "Add background image"
+msgstr ""
+
+#: functions/vc/vc-custom.php:83
+msgid "Parallax?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:85 functions/vc/vc-custom.php:373
+#: functions/vc/vc-custom.php:542 functions/vc/vc-custom.php:548
+msgid "Yes, please"
+msgstr ""
+
+#: functions/vc/vc-custom.php:86
+msgid "Turn On Parallax effect?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:94
+msgid "Parallax Ratio"
+msgstr ""
+
+#: functions/vc/vc-custom.php:101
+msgid ""
+"Enter Parallax movement ratio , Number only, for fix background use 0, "
+"default is 0.6"
+msgstr ""
+
+#: functions/vc/vc-custom.php:122 functions/vc/vc-custom.php:129
+#: functions/vc/vc-custom.php:135 functions/vc/vc-custom.php:228
+#: functions/vc/vc-custom.php:306 functions/vc/vc-custom.php:683
+#: functions/vc/vc-custom.php:757 functions/vc/vc-custom.php:870
+msgid "Content"
+msgstr ""
+
+#: functions/vc/vc-custom.php:124
+msgid "Your Title"
+msgstr ""
+
+#: functions/vc/vc-custom.php:125
+msgid "Enter your title here"
+msgstr ""
+
+#: functions/vc/vc-custom.php:131
+msgid "Big Sub Title"
+msgstr ""
+
+#: functions/vc/vc-custom.php:137
+msgid "Small Sub Title"
+msgstr ""
+
+#: functions/vc/vc-custom.php:141
+msgid "Align"
+msgstr ""
+
+#: functions/vc/vc-custom.php:159
+msgid "Service Box (Featured Box)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:178 functions/vc/vc-custom.php:292
+#: functions/vc/vc-custom.php:470 functions/vc/vc-custom.php:843
+msgid "Icon"
+msgstr ""
+
+#: functions/vc/vc-custom.php:181 functions/vc/vc-custom.php:295
+msgid "You can set Icon for your box"
+msgstr ""
+
+#: functions/vc/vc-custom.php:185
+msgid "Icon Position"
+msgstr ""
+
+#: functions/vc/vc-custom.php:194 functions/vc/vc-custom.php:299
+#: functions/vc/vc-custom.php:622 functions/vc/vc-custom.php:750
+msgid "Image"
+msgstr ""
+
+#: functions/vc/vc-custom.php:197 functions/vc/vc-custom.php:302
+#: functions/vc/vc-custom.php:753
+msgid ""
+"You can add Image instead of Icon, if you add Image it will be override the "
+"icon "
+msgstr ""
+
+#: functions/vc/vc-custom.php:201 functions/vc/vc-custom.php:420
+#: functions/vc/vc-custom.php:804
+msgid "Button Text"
+msgstr ""
+
+#: functions/vc/vc-custom.php:204
+msgid "You can set button in bottom of box"
+msgstr ""
+
+#: functions/vc/vc-custom.php:208 functions/vc/vc-custom.php:478
+#: functions/vc/vc-custom.php:850
+msgid "URL"
+msgstr ""
+
+#: functions/vc/vc-custom.php:214 functions/vc/vc-custom.php:484
+#: functions/vc/vc-custom.php:856
+msgid "Target"
+msgstr ""
+
+#: functions/vc/vc-custom.php:220 functions/vc/vc-custom.php:490
+#: functions/vc/vc-custom.php:862
+msgid "Link open in New window or Current window"
+msgstr ""
+
+#: functions/vc/vc-custom.php:231 functions/vc/vc-custom.php:309
+#: functions/vc/vc-custom.php:686 functions/vc/vc-custom.php:760
+#: functions/vc/vc-custom.php:873
+msgid "Enter your content."
+msgstr ""
+
+#: functions/vc/vc-custom.php:245
+msgid "Process"
+msgstr ""
+
+#: functions/vc/vc-custom.php:262 functions/vc/vc-custom.php:354
+#: functions/vc/vc-custom.php:591 functions/vc/vc-custom.php:719
+msgid "Columns"
+msgstr ""
+
+#: functions/vc/vc-custom.php:265 functions/vc/vc-custom.php:722
+msgid "Please select your wanted width"
+msgstr ""
+
+#: functions/vc/vc-custom.php:272
+msgid "Process Item"
+msgstr ""
+
+#: functions/vc/vc-custom.php:281
+msgid "Number"
+msgstr ""
+
+#: functions/vc/vc-custom.php:323
+msgid "Divider"
+msgstr ""
+
+#: functions/vc/vc-custom.php:331
+msgid "Color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:357
+msgid "How many columns would you like?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:360
+msgid "Number of Items"
+msgstr ""
+
+#: functions/vc/vc-custom.php:367
+msgid ""
+"Please enter the portfolio category slug for filtering the result. (optional)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:371
+msgid "Show Filtering?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:376
+msgid "Order by"
+msgstr ""
+
+#: functions/vc/vc-custom.php:381
+msgid "Author"
+msgstr ""
+
+#: functions/vc/vc-custom.php:383
+msgid "Modified"
+msgstr ""
+
+#: functions/vc/vc-custom.php:385
+msgid "Comment count"
+msgstr ""
+
+#: functions/vc/vc-custom.php:386
+msgid "Menu order"
+msgstr ""
+
+#: functions/vc/vc-custom.php:388
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: functions/vc/vc-custom.php:392
+msgid "Order way"
+msgstr ""
+
+#: functions/vc/vc-custom.php:395
+msgid "Descending"
+msgstr ""
+
+#: functions/vc/vc-custom.php:396
+msgid "Ascending"
+msgstr ""
+
+#: functions/vc/vc-custom.php:398
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: functions/vc/vc-custom.php:411
+msgid "Button"
+msgstr ""
+
+#: functions/vc/vc-custom.php:426 functions/vc/vc-custom.php:810
+msgid "Button Style"
+msgstr ""
+
+#: functions/vc/vc-custom.php:437 functions/vc/vc-custom.php:821
+msgid "Button Default Color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:450 functions/vc/vc-custom.php:833
+msgid "Button Custom Color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:460
+msgid "Button Align"
+msgstr ""
+
+#: functions/vc/vc-custom.php:473 functions/vc/vc-custom.php:845
+msgid "You can set Icon for your button"
+msgstr ""
+
+#: functions/vc/vc-custom.php:508
+msgid "Slider"
+msgstr ""
+
+#: functions/vc/vc-custom.php:515
+msgid "Images"
+msgstr ""
+
+#: functions/vc/vc-custom.php:518
+msgid "Please add your slider images"
+msgstr ""
+
+#: functions/vc/vc-custom.php:522
+msgid "Transition Mode"
+msgstr ""
+
+#: functions/vc/vc-custom.php:529
+msgid "Type of transition between slides"
+msgstr ""
+
+#: functions/vc/vc-custom.php:533
+msgid "Speed"
+msgstr ""
+
+#: functions/vc/vc-custom.php:536
+msgid "Slide transition duration (in ms)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:540
+msgid "Show Controls?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:546
+msgid "Auto Play?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:556
+msgid "Pause Time"
+msgstr ""
+
+#: functions/vc/vc-custom.php:559
+msgid "The amount of time (in ms) between each auto transition"
+msgstr ""
+
+#: functions/vc/vc-custom.php:563
+msgid "Image Size"
+msgstr ""
+
+#: functions/vc/vc-custom.php:565
+msgid ""
+"You can set your wanted image size such as thumbnail, medium, large, full "
+"(Optional)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:580
+msgid "Members"
+msgstr ""
+
+#: functions/vc/vc-custom.php:594
+msgid "Please select your wanted columns to display the members"
+msgstr ""
+
+#: functions/vc/vc-custom.php:601
+msgid "Member Item"
+msgstr ""
+
+#: functions/vc/vc-custom.php:611
+msgid "Full Name"
+msgstr ""
+
+#: functions/vc/vc-custom.php:616
+msgid "Job Role"
+msgstr ""
+
+#: functions/vc/vc-custom.php:619
+msgid "e.g. CEO, Manager, Designer and ...)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:627
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/vc/vc-custom.php:630
+msgid "e.g. http://www.facebook.com/envato (with http://)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:634
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/vc/vc-custom.php:646
+msgid "Linkedin"
+msgstr ""
+
+#: functions/vc/vc-custom.php:685 functions/vc/vc-custom.php:872
+msgid "your content goes here!"
+msgstr ""
+
+#: functions/vc/vc-custom.php:716
+msgid "Please set an ID (Optional)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:729
+msgid "Testimonial Item"
+msgstr ""
+
+#: functions/vc/vc-custom.php:744
+msgid "Role (Job)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:775
+msgid "Pricing Table Item"
+msgstr ""
+
+#: functions/vc/vc-custom.php:788
+msgid "Price"
+msgstr ""
+
+#: functions/vc/vc-custom.php:793
+msgid "Currency Unit"
+msgstr ""
+
+#: functions/vc/vc-custom.php:798
+msgid "Peroid"
+msgstr ""
+
+#: functions/vc/vc-custom.php:801
+msgid "e.g. /mo, /hr, Yearly ..."
+msgstr ""
