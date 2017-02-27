@@ -430,6 +430,10 @@
 	hr.small {
     	margin: 5px auto;
 	}
+
+	.footer_widget {
+		margin-bottom: 30px;
+	}
 }
 
 @media only screen and (max-width: 1024px) {
