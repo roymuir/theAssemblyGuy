@@ -229,8 +229,8 @@ register_sidebar(
 		'description'   =>  $fw_desc_full,
 		'before_widget' => '<div id="%1$s" class="footer_widget %2$s ' . $fw_class[$footer_columns] . ' col">',  
 	    'after_widget' => '</div>',  
-	    'before_title' => '<p class="serif"><em>',  
-	    'after_title' => '</em></p>'
+	    'before_title' => '<h4 class="serif widget-title-white"><em>',  
+	    'after_title' => '</em></h4>'
 	));
 	
 register_sidebar(

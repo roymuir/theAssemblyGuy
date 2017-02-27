@@ -2238,7 +2238,7 @@ a.btn-play {
 }
 
 #footer p {
-	color: #888888;
+	color: #ffffff;
 	margin-bottom: 0;
 }
 
@@ -3669,6 +3669,15 @@ h3 a.comment-reply-link:after {
 
 .widget h3 {
 	font-size: 16px;
+}
+
+.widget-title-white {
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+.footer_widget .textwidget {
+	font-size: 14px;
 }
 
 .widget img {
