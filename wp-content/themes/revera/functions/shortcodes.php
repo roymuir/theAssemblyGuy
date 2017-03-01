@@ -250,6 +250,7 @@ function revera_process_cutoms_javascript() {
 					adaptiveHeight: true,
 					controls: false,
 					pagerCustom: '.process-controls',
+					slideWidth: 270
 				});	
 			} catch(e){}
 		});	
